@@ -3,7 +3,7 @@
 
 ## ❓How to use
 - Install any browser Extension/Addon which can inject CSS (Stylebot recommended)
-## 👉 Install
+## 👉 Install with Stylebot
 - Add Stylebot Extension/Addon to your browser
 - Goto VULMS Website
 - Open Stylebot Extension/Addon
