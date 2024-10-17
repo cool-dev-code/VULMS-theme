@@ -2,7 +2,7 @@
 - VULMS improved theme for Virtual University of Pakistan Learning Management System
 
 ## ❓How to use
-- Install any browser Extension/Addon which can inject CSS (Stylebot recommended)
+- Install any browser Extension/Addon which can inject CSS *(**Stylebot** recommended)*
 ## 👉 Install with Stylebot
 - Add Stylebot Extension/Addon to your browser
 - Goto VULMS Website
