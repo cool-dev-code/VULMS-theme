@@ -1,5 +1,5 @@
 # ✅ VULMS Theme
-- VULMS improved theme for Virtual University of Pakistan Learning Management System
+- Improved theme for Virtual University of Pakistan Learning Management System - VULMS
 
 ## ❓How to use
 - Install any browser Extension/Addon which can inject CSS *(**Stylebot** recommended)*
